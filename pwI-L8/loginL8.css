@@ -5,7 +5,7 @@
     list-style: none;
     text-decoration: none;
     color: black;
-};
+}
 
 body {
     background-image: url(./bg-2.png);
@@ -109,4 +109,4 @@ body {
   
   button:hover {
     background-color: #007aa3;
-  }
+  };
