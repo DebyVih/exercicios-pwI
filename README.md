@@ -11,4 +11,7 @@
 <li>📜 Lista 6 - Exercício HTML, CSS, Box Model, Posicionamento, Box-Sizing, e Display</li>
 <li>📜 Lista 7 - Exercício Flex Box - Flex Container</li>
 <li>📜 Lista 8 - Projeto - 1: mistura artesanal</li>
+<li>📜 Lista 9 - Projeto - 2: clone de calculadora e clone landing-page</li>
+<li>📜 Lista 10 - Projeto: mobile-first</li>
+<li>📜 Lista 11 - Exercícios: javascript-basico</li>
 </ul>
